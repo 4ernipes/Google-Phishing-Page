@@ -1,4 +1,4 @@
-<!-- followint code is for localhost. For hosting the page on a website we have to change the servername, username, password, and database_name variables -->
+<!-- following code is for localhost. For hosting the page on a website we have to change the servername, username, password, and database_name variables -->
 <?php 
 $servername = "localhost";
 $username = "root";
